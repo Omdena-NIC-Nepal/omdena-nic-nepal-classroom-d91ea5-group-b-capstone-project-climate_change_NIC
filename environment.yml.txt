@@ -1,0 +1,17 @@
+name: flood_dashboard
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - streamlit
+  - pandas
+  - numpy
+  - matplotlib
+  - scikit-learn
+  - folium
+  - leafmap
+  - spacy
+  - pip
+  - pip:
+      - wordcloud
