@@ -1,0 +1,51 @@
+Title: Climate Change Amplified the Effects of Extreme Rainfall in Nepal - eos.org
+Published: Wed, 18 Dec 2024 08:00:00 GMT
+Source: eos.org
+
+An unprecedented incident of extreme rainfall hit Nepal in late September 2024. Some areas of the country reported their highest amount of precipitation in more than 50 years. The whole country was put on alert, but ultimately, floods and landslides associated with the delugeclaimed 244 lives.
+
+A new attribution study indicates that human-induced climate change made this extreme weather nearly 70% more likely and 10% more intense.Roshan Jha, a coauthor of the new study and a Ph.D. research scholar at the Indian Institute of Technology Bombay,presentedthe team’s findings on 10 December at AGU’s Annual Meeting 2024 in Washington, D.C. Jha collaborated with 19 other scientists from five countries on the research.
+
+The study’s key conclusions were based on data provided by local weather stations in Nepal as well as climate modeling analyses.
+
+Monsoon Season
+
+The torrential rainfall occurred during the region’s annual monsoon season, in which moisture from the Indian Ocean is transported toward the Himalayas.
+
+Kathmandu Valley is especially vulnerable to heavy monsoon rains. During the September event, Kathmandu, Nepal’s capital and largest city, received323.5 millimeters of rainfallin a span of 24 hours.
+
+“This is a valley kind of thing,” said Jha. “Whenever the rainfall occurs, the rain comes to the center [of the valley] from all over it.”
+
+The increasing intensity of the monsoon “is attributed to climate change because with climate change, we know the atmosphere has more capacity to hold the moisture.”
+
+The increasing intensity of the monsoon “is attributed to climate change because with climate change, we know the atmosphere has more capacity to hold the moisture.”
+
+The frequency and intensity of monsoon-related events in Kathmandu and across Nepal have been “increasing since 1980,” said Jha, “and that is attributed to climate change because with climate change, we know the atmosphere has more capacity to hold the moisture.”
+
+To quantify the role of human-induced climate change in this extreme weather event, Jha and his coauthors first averaged the maximum 3-day accumulated rainfall measurements in central and eastern Nepal during monsoon season between 1971 and 2024. They also created models of the event under preindustrial conditions as well as current global mean surface temperature.
+
+Jha and his coauthors used data collected by local stations affiliated with Nepal’s Department of Hydrology and Meteorology, reanalysis data fromERA5(the fifth-generation European Centre for Medium-Range Weather Forecasts tool), and global precipitation data from theMulti-Source Weighted-Ensemble Precipitationproduct.
+
+The results were consistent with scientists’ predictions. “We got matches with the theoretical estimates,” said Jha.
+
+Unplanned Urbanization
+
+Unplanned urbanization also contributed to the devastation brought by extreme weather, the report concluded.
+
+For example, the Bagmati River, which flows through Kathmandu, hadpreviously been reroutedto make way for housing and industrial development. Such urbanization meant the river’s floodplains were increasingly constrained. “And because of that,” Jha explained, the river was “not able to accommodate that much streamflow.”
+
+Nepal is one of theworld’s fastest-urbanizing countries, and the Kathmandu Valley is one of the fastest-growing metropolitan areas in South Asia. It has an estimated population ofnearly 3 million, and that number is increasing by about6.5% every year.
+
+According to Jha and his coauthors, the past 30 years have seen a 386% increase in built-up areas in Kathmandu Valley, especially in the valley’s fertile floodplains. Forest cover in the region, meanwhile, has declined 28%, they said.
+
+“The conclusion that they have drawn does make sense” and is consistent with other studies, saidDivas B. Basnyat, who heads the Water and Climate Program at the Nepal Development Research Institute.
+
+Basnyat, who was not involved in the new research but has led previous studies on climate risks in Kathmandu Valley, said that extreme monsoon-related rainfall events are becoming less unusual. Events previously associated with 50-year or even 100-year floods are now occurring much more frequently, he said.
+
+As a resident of Kathmandu whose family has been living there for generations, Basnyat noted that older neighborhoods built on high ground are not affected as much by extreme rainfall events. Newer developments, however, have been built close to the river and are in grave danger of future extreme events.
+
+The new study supported this pattern. It found that informal settlements constructed along riverbanks or in flood-prone areas are particularly vulnerable to extreme weather events.
+
+But Basnyat also noted that the climate data used in the new study have limitations. “We have to also accept the availability of data in Kathmandu and the area is scarce.” Furthermore, he continued, “the variability in the mountainous areas like Nepal and the Himalayas can be a lot, even in a short distance.”
+
+—Leslie Liang, Science Writer
