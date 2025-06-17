@@ -15,7 +15,7 @@ main_sections = ["Climate Sections", "Weather Sections", "Socio-Economic Status"
 
 #Fime Mapping
 PAGES = {
-    "Weather Impact in Climate ": "climate pages/weather_impact.py",
+    "Weather Impact in Climate": "climate pages/weather_impact.py",
     "Climate Data Analysis": "climate pages/featured_data_visualization.py",
     "Climate Data Predictions": "climate pages/Predictions.py",
     "Weather Data Analysis" : "weather_pages/Data_Analysis.py",

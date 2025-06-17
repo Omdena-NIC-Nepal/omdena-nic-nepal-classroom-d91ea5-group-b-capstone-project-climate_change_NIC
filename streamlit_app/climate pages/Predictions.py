@@ -14,11 +14,11 @@ from sklearn.preprocessing import StandardScaler
 current_dir = os.path.dirname(os.path.abspath(__file__))
 
 # Go up two levels to project root, then into Machine_Learning_and_Model_Training
-project_root = Path(current_dir).resolve().parent.parent
-ml_dir = os.path.join(project_root, '/Machine_Learning_and_model_dev')
+project_root = Path(current_dir).parent
+ml_dir = os.path.join(project_root, 'Machine_Learning_and_model_dev')
 
 # Add to Python path
-sys.path.append(ml_dir)
+sys.path.append(str(ml_dir))
 
 #import functions
 from model_training import train_and_save_model, predict, calculate_metrics, load_model
@@ -47,10 +47,9 @@ def load_data(filepath):
         X_clean = df_clean[features]
         y_clean = df_clean['Temp_2m']
 
-        y_class = (y_clean > 30).astype(int)
+        y_class = ((y_clean > 28) | (y_clean < 0)).astype(int)
         y_clean = y_clean.where(y_clean > 0, 1e-6)
         y_log = np.log1p(y_clean)
-
         return df_clean, X_clean, y_clean, y_log, y_class
     except Exception as e:
         st.error(f"❗ Error loading data: {e}")

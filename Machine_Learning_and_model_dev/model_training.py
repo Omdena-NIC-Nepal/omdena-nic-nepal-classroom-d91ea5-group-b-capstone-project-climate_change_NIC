@@ -57,7 +57,7 @@ def train_and_save_model(model_choice, params, X_train, y_train):
         model = Lasso(**params)
         pipeline = create_pipeline(model, model_type='regression')
     elif model_choice == 'Support Vector Machine':
-        model = SVC(random_state=42, **params)
+        model = SVC(random_state=42, gamma=0.5, **params)
         pipeline = create_pipeline(model, model_type='classification')
     else:
         raise ValueError(f"Unsupported model: {model_choice}")
