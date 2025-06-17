@@ -1,0 +1,37 @@
+River,Length(km),River Attribute,Value
+Mahakali,223,Drainage Area (km²) - Total,15260
+Karnali,507,Drainage Area (km²) - Total,44000
+Babai,190,Drainage Area (km²) - Total,3400
+West Rapti,257,Drainage Area (km²) - Total,6500
+Narayani,332,Drainage Area (km²) - Total,34960
+Bagmati,163,Drainage Area (km²) - Total,3700
+Sapkoshi,513,Drainage Area (km²) - Total,60400
+Kankai,108,Drainage Area (km²) - Total,1330
+Other River,null,Drainage Area (km²) - Total,24921
+Mahakali,223,Drainage Area (km²) - Nepal,5410
+Karnali,507,Drainage Area (km²) - Nepal,41890
+Babai,190,Drainage Area (km²) - Nepal,3400
+West Rapti,257,Drainage Area (km²) - Nepal,6500
+Narayani,332,Drainage Area (km²) - Nepal,28090
+Bagmati,163,Drainage Area (km²) - Nepal,3700
+Sapkoshi,513,Drainage Area (km²) - Nepal,31940
+Kankai,108,Drainage Area (km²) - Nepal,1330
+Other River,null,Drainage Area (km²) - Nepal,24921
+Mahakali,223,Estimated Runoff (m³/sec) - From All Basins,698
+Karnali,507,Estimated Runoff (m³/sec) - From All Basins,1441
+Babai,190,Estimated Runoff (m³/sec) - From All Basins,103
+West Rapti,257,Estimated Runoff (m³/sec) - From All Basins,224
+Narayani,332,Estimated Runoff (m³/sec) - From All Basins,1753
+Bagmati,163,Estimated Runoff (m³/sec) - From All Basins,178
+Sapkoshi,513,Estimated Runoff (m³/sec) - From All Basins,1658
+Kankai,108,Estimated Runoff (m³/sec) - From All Basins,68
+Other River,null,Estimated Runoff (m³/sec) - From All Basins,1001
+Mahakali,223,Estimated Runoff (m³/sec) - From Nepal,247
+Karnali,507,Estimated Runoff (m³/sec) - From Nepal,1371
+Babai,190,Estimated Runoff (m³/sec) - From Nepal,103
+West Rapti,257,Estimated Runoff (m³/sec) - From Nepal,224
+Narayani,332,Estimated Runoff (m³/sec) - From Nepal,1409
+Bagmati,163,Estimated Runoff (m³/sec) - From Nepal,178
+Sapkoshi,513,Estimated Runoff (m³/sec) - From Nepal,878
+Kankai,108,Estimated Runoff (m³/sec) - From Nepal,68
+Other River,null,Estimated Runoff (m³/sec) - From Nepal,1001

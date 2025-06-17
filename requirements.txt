@@ -1,38 +1,33 @@
-# Core Data & Math
+# Core Data Science
 numpy==1.26.4
 pandas==2.2.1
 scipy==1.13.0
 scikit-learn==1.4.0
-gdown
 
-# Geo-Spatial
-geopandas==0.14.3           # Last stable version for NumPy 1.26.x
-shapely==2.0.3              # Required by geopandas
-pyproj==3.6.1 
-folium==0.19.7              # Geospatial coordinate transforms
+# Geospatial
+geopandas==0.14.3
+shapely==2.0.3
+pyproj==3.6.1
 fiona==1.9.6
-geopy==2.4.17
-streamlit_folium                # GIS file I/O (geopandas dependency)
-
-# Data Validation
-pandera==0.18.0             # Works with pandas 2.x
-
-# NLP
-gensim==4.3.3
-spacy==3.7.4
-textblob==0.17.1
-nltk==3.8.1
-summa==1.2.0
+geopy==2.4.1
 
 # Visualization
+folium==0.19.7
+streamlit_folium==0.15.1
 matplotlib==3.8.3
 seaborn==0.13.2
 plotly==5.18.0
 
-#time series data
-statsmodels==0.14.4
-
-# Utilities
+# NLP
+spacy==3.7.4
+thinc==8.2.3
+textblob==0.17.1
+nltk==3.8.1
+gensim==4.3.3
+summa==1.2.0
 langdetect==1.0.9
+
+# Other
+statsmodels==0.14.4
+pandera==0.18.0
 streamlit==1.32.0
-IPython==9.3.0 
