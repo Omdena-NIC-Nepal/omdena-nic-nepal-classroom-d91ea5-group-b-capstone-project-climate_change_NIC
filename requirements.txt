@@ -12,7 +12,6 @@ pandera==0.18.0
 spacy==3.7.4
 textblob==0.17.1
 nltk==3.8.1
-gensim==4.3.0
 summa==1.2.0
 langdetect==1.0.9
 plotly==5.22.0
