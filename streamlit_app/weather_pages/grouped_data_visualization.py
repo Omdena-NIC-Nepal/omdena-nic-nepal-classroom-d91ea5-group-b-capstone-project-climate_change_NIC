@@ -5,8 +5,14 @@ from io import StringIO
 
 DATA_PATH = Path(__file__).resolve().parent.parent  # Go up 2 directories
 interval_data = pd.read_csv(DATA_PATH / "Weather_&_Climate_Data/Processed Datas/5yeargrouped.csv")
+# Check if all values are strings
+all_strings = interval_data['District'].apply(lambda x: isinstance(x, str)).all()
+
+# Convert 'Interval_Start' to datetime
+interval_data['Interval_Start'] = pd.to_datetime(interval_data['Interval_Start'])
 
 st.header('Daily Weather Data From The Year 1981 To 2019 Scaled to 4 years')
+print("All values are strings:", all_strings)
 # Display DataFrame info() properly
 with st.expander("📊 4 Years Weather Data Info"):
     buffer = StringIO()
@@ -36,7 +42,7 @@ with col2:
 with col3:
     st.metric(
         label="Date Range:", 
-        value=interval_data['Interval_Start'].min(), 
-        delta=interval_data['Interval_Start'].max()
+        value=interval_data['Interval_Start'].min().strftime('%Y-%m-%d'), 
+        delta=interval_data['Interval_Start'].max().strftime('%Y-%m-%d')
     )
 

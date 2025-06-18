@@ -3,7 +3,7 @@ import pandas as pd
 import folium
 
 from pathlib import Path
-from streamlit_folium import folium_static
+from streamlit_folium import st_folium
 from geopy.geocoders import Nominatim
 
 daily_climate_data_path = Path(__file__).resolve().parent.parent/"Weather_&_Climate_Data/Processed Datas/5yeargrouped.csv"
@@ -17,10 +17,8 @@ precip_max_threshold = df['Precip'].quantile(0.95)
 precip_min_threshold = df['Precip'].quantile(0.05)
 # temp_max_threshold = 35
 # temp_min_threshold = 0
-
 # precip_max_threshold = 35
 # precip_min_threshold = 0.03
-
 
 df["Date"] = df["Interval_Start"]
 Precip_vulnerable_areas = df[(df['Precip'] > precip_max_threshold) | (df['Precip'] < precip_min_threshold)]
@@ -65,4 +63,4 @@ st.markdown("""
  🏜️ Low Precipitation(Drought)
  """)
 st.write("This map shows regions vulnerable to high temperature and high precipitation.")
-folium_static(nepal_map)
+st_folium(nepal_map)

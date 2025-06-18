@@ -110,7 +110,7 @@ sns.boxplot(x='month', y='Heat_Stress_Index', data=df, ax=ax7)
 ax7.set_title('Monthly Distribution of Heat Stress Index')
 st.pyplot(fig7)
 
-# Scatter Plot for Lag Relationship
+# scatter_mapboxap Plot for Lag Relationship
 st.subheader("🔁 Lag Relationship: Precipitation vs Disaster Occurrence")
 if 'Extreme_Event' in df.columns:
     fig8 = px.scatter(df[df['Extreme_Event'].notna()], x='precip_lag1', y='temp_2m_lag1',
