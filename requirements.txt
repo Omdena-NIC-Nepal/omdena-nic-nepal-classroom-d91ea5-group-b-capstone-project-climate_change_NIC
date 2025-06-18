@@ -1,32 +1,20 @@
-# Core Data Science & ML
 numpy==1.26.4
 pandas==2.2.1
-scipy==1.13.0
-scikit-learn==1.4.0
-
-# Geospatial
+matplotlib==3.8.3
+seaborn==0.13.2
 geopandas==0.14.3
 shapely==2.0.3
 pyproj==3.7.1
-fiona==1.8.21        # Avoid 1.9.x unless GDAL is installed
-geopy==2.4.0
-
-# Visualization
 folium==0.19.7
-streamlit_folium==0.15.1
-matplotlib==3.8.3
-seaborn==0.13.2
-plotly==5.18.0
-
-# NLP
+streamlit-folium==0.15.1
+scikit-learn==1.4.0
+pandera==0.18.0
 spacy==3.7.4
 textblob==0.17.1
 nltk==3.8.1
 gensim==4.3.3
 summa==1.2.0
 langdetect==1.0.9
-
-# Utilities
-pandera==0.18.0
+plotly==5.18.0
 statsmodels==0.14.4
 streamlit==1.32.0
