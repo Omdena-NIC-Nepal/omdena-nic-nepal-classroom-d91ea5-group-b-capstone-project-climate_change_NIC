@@ -7,8 +7,8 @@ DATA_PATH = Path(__file__).resolve().parent.parent  # Go up 2 directories
 interval_data = pd.read_csv(DATA_PATH / "Weather_&_Climate_Data/Processed Datas/5yeargrouped.csv")
 # Check if all values are strings
 # Before displaying the dataframe, convert object columns
-interval_data['District'] = interval_data['District'].astype('string')  # or 'str'
-
+for col in interval_data.select_dtypes(include=['object']).columns:
+    interval_data[col] = interval_data[col].astype('string')
 # Convert 'Interval_Start' to datetime
 interval_data['Interval_Start'] = pd.to_datetime(interval_data['Interval_Start'])
 
@@ -21,10 +21,11 @@ with st.expander("📊 4 Years Weather Data Info"):
     st.text(buffer.getvalue())
 
 # Display a cleaner summary table
+# Display a cleaner summary table
 with st.expander("🧹 Clean Data Summary"):
     summary_data = {
         'Column': interval_data.columns,
-        'Data Type': interval_data.dtypes,
+        'Data Type': interval_data.dtypes.astype('string'),  # Convert dtypes to strings
         'Non-Null Count': interval_data.count()
     }
     st.dataframe(pd.DataFrame(summary_data))

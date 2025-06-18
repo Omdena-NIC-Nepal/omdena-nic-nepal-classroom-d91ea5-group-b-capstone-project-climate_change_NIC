@@ -21,7 +21,7 @@ PAGES = {
     "Weather Data Analysis" : "weather_pages/Data_Analysis.py",
     "Weather Data Visualization" : "weather_pages/grouped_data_visualization.py",
     "River Data Visualization": "weather_pages/river_data_visualization_page.py",
-    "Socio-Economic Impact": "nlp_pages",
+    "Socio-Economic Impact": "weather_pages/socio_economic_status.py",
     "Sentiment Analysis": "nlp_pages",
     "Language Prediction": "nlp_pages/language_prediction.py",
     "NER Prediction": "nlp_pages/ner_prediction.py",
