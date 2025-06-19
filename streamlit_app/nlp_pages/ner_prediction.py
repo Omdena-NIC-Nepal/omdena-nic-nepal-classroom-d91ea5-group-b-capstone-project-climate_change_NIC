@@ -9,7 +9,7 @@ import pandas as pd
 SUPPORTED_ENTITY_LABELS = [
     "PERSON", "ORG", "GPE", "LOC", "NORP", "MONEY", "DATE", "TIME", "PERCENT", "FAC"
 ]
-
+nlp = spacy.load("en_core_web_sm")
 @st.cache_data
 def load_ner_outputs():
     ner_models = {}
