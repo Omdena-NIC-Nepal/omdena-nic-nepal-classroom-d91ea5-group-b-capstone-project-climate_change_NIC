@@ -1,0 +1,29 @@
+Title: Rapid urbanisation and climate change key drivers of dramatic flood impacts in Nepal - World Weather Attribution
+Published: Wed, 16 Oct 2024 07:00:00 GMT
+Source: World Weather Attribution
+
+Rapid urbanisation and climate change key drivers of dramatic flood impacts in Nepal
+
+From 26-28 September 2024, extremely heavy rainfall hit Nepal, especially the capital Kathmandu and nearby regions, causing devastating flash floods, landslides and riverine flooding from the Bagmati, Sapakoshi, Narayani, Sardu, Rew, and Nakkhu rivers and their tributaries. In total, 244 people were killed.
+
+The disaster has severely disrupted transportation, damaging 19 major roads. Landslides blocked all highways out of Kathmandu, with only the Prithvi Highway partially reopened. Roads across central and southern Nepal, including vital routes like the BP Highway, Mid-Hill Highway and Araniko Highway, remain partially blocked.
+
+Researchers from Nepal, India, Sweden, Australia, the United States, and the United Kingdom collaborated to assess to what extent human-induced climate change altered the likelihood and intensity of extreme rainfall that led to devastating landslides and floods.
+
+To analyse the event, we focus on the most affected region in Nepal, including the provinces Gandaki, Bagmati, Madhesh and Koshi. The rain fell at the end of the monsoon season, when soils are generally saturated, meaning that the three days of very heavy rainfall were the main cause of the impacts. We thus use the maximum of the annual 3-day rainfall as the temporal event definition. Fig. 1 shows the accumulated 3-day rainfall over Nepal with the study region outlined in red.
+
+Main findings
+
+The Metropolitan areas of Kathmandu and Lalitpur are highly exposed to flooding due to their geographic location along a valley with few natural drainage points. Rapid urbanisation (386% increase in built up areas between 1990-2020) and deforestation (28% reduction in forest cover from 1989-2019) in the Kathmandu Valley has disrupted natural water processes, increasing surface runoff and overwhelming drainage systems, while building on flood plains and near rivers has increased the exposure of people and assets to floods.
+
+Nepal has seen many heavy rainfall events followed by severe flooding in the past. Analysing different observation-based datasets, the relative magnitude of the observed event compared to previous years varies between datasets, making it difficult to estimate how rare the event is in today’s climate. According to the Department of Hydrology and Meteorology (DHM), Government of Nepal, the rainfall recorded in several stations during the event was the highest in 54 years of measurements (DHM, 08 October 2024); therefore we use a rounded estimate of 1-in-50 years to define the event for the rest of the analysis.
+
+To assess if human-induced climate change influenced the heavy rainfall, we first determine if there is a trend in the observations. Our best estimate is that heavy 3-day rainfall events have become about 18% more intense and just over twice more likely, but there are substantial differences between the datasets, which limit our confidence in the accuracy of these figures. The trends are stronger in the satellite era, from 1980 onwards.
+
+To quantify the role of human-induced climate change we analyse climate models with high resolution that are in principle able to simulate the influence of the mountains on rainfall in the study region. Overall, the available climate models indicate a 10% increase in intensity compared to a 1.3C cooler climate, and an increase in likelihood of about 70%. Under a future warming scenario where the global temperature is 2°C higher than pre-industrial levels, climate models predict even heavier 3-day rainfall events, with a further expected increase of about 3% in rainfall intensity. As only the subset of models showing the smallest change in rainfall with global warming have future simulations available, this is a conservative estimate.
+
+Given the small mountainous region with complex rainfall-climate dynamics, there is a high level of uncertainty in the results. However, the increase in heavy 3-day rainfall events is in line with a large and growing body of scientific evidence on large-scale extreme rainfall in a warming world, including in Nepal, and the physical understanding that a warmer atmosphere can hold more moisture, leading to heavier downpours.
+
+The floods were well forecasted by the Department of Hydrology and Meteorology (DHM), but warning messages did not focus on the impacts to the Kathmandu Valley specifically, and it’s unclear to what extent the warnings led to early action. The Kathmandu Valley is also not thefocus of flood risk management efforts in Nepal, as other regions (notably Terai) generally have been classified as high risk and have historically seen highly impactful floods. This presents an opportunity to further scale anticipatory action systems that have been shown to be cost effective in other parts of Nepal to cover highly exposed urban centres like the Kathmandu Valley.
+
+The 2015 Gorhka earthquake destabilised hillsides and weakened drainage infrastructure, while the COVID-19 pandemic affected the incomes of low and middle class individuals representing long-term compounding factors that increased vulnerability to floods and landslides. Deforestation and rapid urbanisation expansion, especially into river floodplains, increased the number of people in the path of the flood waters. Comprehensive spatial planning, combined with disaster risk reduction and adaptation, effective policy enforcement, and increased public awareness, are crucial to mitigate flood risks across central and eastern Nepal, including the Kathmandu Valley.
